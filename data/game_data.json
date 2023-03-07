@@ -1,0 +1,804 @@
+{
+    "killers" : [
+        {
+            "name" : "Trapper",
+            "portrait" : "media/char_portraits/K01_charPreview_portrait.webp",
+            "perks" : [
+                "Agitation",
+                "Brutal Strength",
+                "Unnerving Presence"
+            ]
+        },
+        {
+            "name" : "Wraith",
+            "portrait" : "media/char_portraits/K02_charPreview_portrait.webp",
+            "perks" : [
+                "Predator",
+                "Shadowborn",
+                "Bloodhound"
+            ]
+        },
+        {
+            "name" : "Hillbilly",
+            "portrait" : "media/char_portraits/K03_charPreview_portrait.webp",
+            "perks" : [
+                "Enduring",
+                "Lightborn",
+                "Tinkerer"
+            ]
+        },
+        {
+            "name" : "Nurse",
+            "portrait" : "media/char_portraits/K04_charPreview_portrait.webp",
+            "perks" : [
+                "A Nurse's Calling",
+                "Stridor",
+                "Thanatophobia"
+            ]
+        },
+        {
+            "name" : "Huntress",
+            "portrait" : "media/char_portraits/K08_charPreview_portrait.webp",
+            "perks" : [
+                "Beast of Prey",
+                "Territorial Imperative",
+                "Hex: Huntress Lullaby"
+            ]
+        },
+        {
+            "name" : "Shape",
+            "portrait" : "media/char_portraits/K05_charPreview_portrait.webp",
+            "perks" : [
+                "Save the Best for Last",
+                "Play with Your Food",
+                "Dying Light"
+            ]
+        },
+        {
+            "name" : "Cannibal",
+            "portrait" : "media/char_portraits/K09_charPreview_portrait.webp",
+            "perks" : [
+                "Knock Out",
+                "Barbequeue & Chili",
+                "Franklin's Demise"
+            ]
+        },
+        {
+            "name" : "Nightmare",
+            "portrait" : "media/char_portraits/K10_charPreview_portrait.webp",
+            "perks" : [
+                "Fire Up",
+                "Rememeber Me",
+                "Blood Warden"
+            ]
+        },
+        {
+            "name" : "Pig",
+            "portrait" : "media/char_portraits/K11_charPreview_portrait.webp",
+            "perks" : [
+                "Hangman's Trick",
+                "Surveilance",
+                "Make Your Choice"
+            ]
+        },
+        {
+            "name" : "Clown",
+            "portrait" : "media/char_portraits/K12_charPreview_portrait.webp",
+            "perks" : [
+                "Bamboozle",
+                "Caulrophobia",
+                "Pop Goes the Weasel"
+            ]
+        },
+        {
+            "name" : "Spirit",
+            "portrait" : "media/char_portraits/K13_charPreview_portrait.webp",
+            "perks" : [
+                "Spirit Fury",
+                "Hex: Haunted Ground",
+                "Rancor"
+            ]
+        },
+        {
+            "name" : "Legion",
+            "portrait" : "media/char_portraits/K14_charPreview_portrait.webp",
+            "perks" : [
+                "Discordance",
+                "Mad Grit",
+                "Iron Maiden"
+            ]
+        },
+        {
+            "name" : "Ghostface",
+            "portrait" : "media/char_portraits/K16_charPreview_portrait.webp",
+            "perks" : [
+                "I'm All Ears",
+                "Thrilling Tremors",
+                "Furtive Chase"
+            ]
+        },
+        {
+            "name" : "Blight",
+            "portrait" : "media/char_portraits/K21_charPreview_portrait.webp",
+            "perks" : [
+                "Dragon's Grip",
+                "Hex: Undying",
+                "Hex: Blood Favour"
+            ]
+        },
+        {
+            "name" : "Trickster",
+            "portrait" : "media/char_portraits/K23_charPreview_portrait.webp",
+            "perks" : [
+                "Starstruck",
+                "Hex: Crowd Control",
+                "No Way Out"
+            ]
+        },
+        {
+            "name" : "Nemesis",
+            "portrait" : "media/char_portraits/K24_charPreview_portrait.webp",
+            "perks" : [
+                "Lethal Pursuer",
+                "Hysteria",
+                "Eruption"
+            ]
+        },
+        {
+            "name" : "Onryo",
+            "portrait" : "media/char_portraits/K27_charPreview_portrait.webp",
+            "perks" : [
+                "Scourge Hook: Floods of Rage",
+                "Call of Brine",
+                "Merciless Storm"
+            ]
+        },
+        {
+            "name" : "Dredge",
+            "portrait" : "media/char_portraits/K28_charPreview_portrait.webp",
+            "perks" : [
+                "Dissolution",
+                "Darkness Revealed",
+                "Septic Touch"
+            ]
+        },
+        {
+            "name" : "Artist",
+            "portrait" : "media/char_portraits/K26_charPreview_portrait.webp",
+            "perks" : [
+                "Grim Embrace",
+                "Scourge Hook: Pain Resonance",
+                "Hex: Pentimento"
+            ]
+        },
+        {
+            "name" : "Cenobite",
+            "portrait" : "media/char_portraits/K25_charPreview_portrait.webp",
+            "perks" : [
+                "Deadlock",
+                "Hex: Plaything",
+                "Scourge Hook: Gift of Pain"
+            ]
+        },
+        {
+            "name" : "Twins",
+            "portrait" : "media/char_portraits/K22_charPreview_portrait.webp",
+            "perks" : [
+                "Hoarder",
+                "Oppression",
+                "Coup de Grace"
+            ]
+        },
+        {
+            "name" : "Excecutioner",
+            "portrait" : "media/char_portraits/K20_charPreview_portrait.webp",
+            "perks" : [
+                "Forced Penance",
+                "Trail of Torment",
+                "Deathbound"
+            ]
+        },
+        {
+            "name" : "Deathslinger",
+            "portrait" : "media/char_portraits/K19_charPreview_portrait.webp",
+            "perks" : [
+                "Gearhead",
+                "Dead Man's Switch",
+                "Hex: Retribution"
+            ]
+        },
+        {
+            "name" : "Oni",
+            "portrait" : "media/char_portraits/K18_charPreview_portrait.webp",
+            "perks" : [
+                "Zanshin Tactics",
+                "Blood Echo",
+                "Nemesis"
+            ]
+        },
+        {
+            "name" : "Plague",
+            "portrait" : "media/char_portraits/K15_charPreview_portrait.webp",
+            "perks" : [
+                "Corrupt Intervention",
+                "Infectious Fright",
+                "Dark Devotion"
+            ]
+        },
+        {
+            "name" : "Doctor",
+            "portrait" : "media/char_portraits/K07_charPreview_portrait.webp",
+            "perks" : [
+                "Overwhelming Presence",
+                "Monitor & Abuse",
+                "Overcharge"
+            ]
+        },
+        {
+            "name" : "Hag",
+            "portrait" : "media/char_portraits/K06_charPreview_portrait.webp",
+            "perks" : [
+                "Hex: The Third Seal",
+                "Hex: Ruin",
+                "Hex: Devour Hope"
+            ]
+        },
+        {
+            "name" : "Demogorgon",
+            "portrait" : "media/char_portraits/K17_charPreview_portrait.webp",
+            "perks" : [
+                "Jolt",
+                "Claustrophobia",
+                "Fearmonger"
+            ]
+        },
+        {
+            "name" : "Mastermind",
+            "portrait" : "media/char_portraits/UnknownKiller_charPreview_portrait.webp",
+            "perks" : [
+                "Superior Anatomy",
+                "Awakened Awareness",
+                "Terminus"
+            ]
+        }
+    ],
+    "killer_perks" : [
+        "A Nurse's Calling",
+        "Agitation",
+        "Awakened Awareness",
+        "Bamboozle",
+        "Barbequeue & Chili",
+        "Beast of Prey",
+        "Bitter Murmur",
+        "Blood Echo",
+        "Blood Warden",
+        "Bloodhound",
+        "Brutal Strength",
+        "Call of Brine",
+        "Corrupt Intervention",
+        "Caulrophobia",
+        "Coup de Grace",
+        "Claustrophobia",
+        "Dark Devotion",
+        "Darkness Revealed",
+        "Dead Man's Switch",
+        "Deadlock",
+        "Deathbound",
+        "Deerstalker",
+        "Discordance",
+        "Dissolution",
+        "Distressing",
+        "Dragon's Grip",
+        "Dying Light",
+        "Enduring",
+        "Eruption",
+        "Fearmonger",
+        "Fire Up",
+        "Forced Penance",
+        "Franklin's Demise",
+        "Furtive Chase",
+        "Gearhead",
+        "Grim Embrace",
+        "Hangman's Trick",
+        "Hex: Blood Favour",
+        "Hex: Crowd Control",
+        "Hex: Devour Hope",
+        "Hex: Haunted Ground",
+        "Hex: Huntress Lullaby",
+        "Hex: No One Escapes Death",
+        "Hex: Pentimento",
+        "Hex: Plaything",
+        "Hex: Retribution",
+        "Hex: Ruin",
+        "Hex: The Third Seal",
+        "Hex: Thrill of the Hunt",
+        "Hex: Undying",
+        "Hoarder",
+        "Hysteria",
+        "I'm All Ears",
+        "Infectious Fright",
+        "Insidious",
+        "Iron Grasp",
+        "Iron Maiden",
+        "Jolt",
+        "Knock Out",
+        "Lethal Pursuer",
+        "Lightborn",
+        "Mad Grit",
+        "Make Your Choice",
+        "Merciless Storm",
+        "Monitor & Abuse",
+        "Nemesis",
+        "No Way Out",
+        "Oppression",
+        "Overcharge",
+        "Overwhelming Presence",
+        "Play with Your Food",
+        "Pop Goes the Weasel",
+        "Predator",
+        "Rancor",
+        "Remember Me",
+        "Save the Best for Last",
+        "Scourge Hook: Floods of Rage",
+        "Scourge Hook: Gift of Pain",
+        "Scourge Hook: Monstrous Shrine",
+        "Scourge Hook: Pain Resonance",
+        "Septic Touch",
+        "Shadowborn",
+        "Shattered Hope",
+        "Sloppy Butcher",
+        "Spies from the Shadows",
+        "Spirit Fury",
+        "Starstruck",
+        "Stridor",
+        "Superior Anatomy",
+        "Surveilance",
+        "Terminus",
+        "Territorial Imperative",
+        "Thanatophobia",
+        "Thrilling Tremors",
+        "Tinkerer",
+        "Trail of Torment",
+        "Unnerving Presence",
+        "Unrelenting",
+        "Whispers",
+        "Zanshin Tactics"
+    ],
+    "survivors" : [
+        {
+            "name" : "Dwight",
+            "portrait" : "media/char_portraits/S01_charPreview_portrait.webp",
+            "perks" : [
+                "Bond",
+                "Prove Thyself",
+                "Leader"
+            ]
+        },
+        {
+            "name" : "Meg",
+            "portrait" : "media/char_portraits/S02_charPreview_portrait.webp",
+            "perks" : [
+                "Quick & Quiet",
+                "Sprint Burst",
+                "Adrenaline"
+            ]
+        },
+        {
+            "name" : "Claudette",
+            "portrait" : "media/char_portraits/S03_charPreview_portrait.webp",
+            "perks" : [
+                "Empathy",
+                "Botany Knowledge",
+                "Self-Care"
+            ]
+        },
+        {
+            "name" : "Jake",
+            "portrait" : "media/char_portraits/S04_charPreview_portrait.webp",
+            "perks" : [
+                "Iron Will",
+                "Calm Spirit",
+                "Saboteur"
+            ]
+        },
+        {
+            "name" : "Nea",
+            "portrait" : "media/char_portraits/S05_charPreview_portrait.webp",
+            "perks" : [
+                "Balanced Landing",
+                "Urban Evasion",
+                "Streetwise"
+            ]
+        },
+        {
+            "name" : "Laurie",
+            "portrait" : "media/char_portraits/S06_charPreview_portrait.webp",
+            "perks" : [
+                "Sole Survivor",
+                "Object of Obsession",
+                "Decisive Strike"
+            ]
+        },
+        {
+            "name" : "Ace",
+            "portrait" : "media/char_portraits/S07_charPreview_portrait.webp",
+            "perks" : [
+                "Open Handed",
+                "Up the Ante",
+                "Ace in the Hole"
+            ]
+        },
+        {
+            "name" : "Bill",
+            "portrait" : "media/char_portraits/S08_charPreview_portrait.webp",
+            "perks" : [
+                "Left Behind",
+                "Borrowed Time",
+                "Unbreakable"
+            ]
+        },
+        {
+            "name" : "Feng",
+            "portrait" : "media/char_portraits/S09_charPreview_portrait.webp",
+            "perks" : [
+                "Technician",
+                "Lithe",
+                "Alert"
+            ]
+        },
+        {
+            "name" : "David",
+            "portrait" : "media/char_portraits/S10_charPreview_portrait.webp",
+            "perks" : [
+                "Dead Hard",
+                "We're Gonna Live Forever",
+                "No Mither"
+            ]
+        },
+        {
+            "name" : "Quentin",
+            "portrait" : "media/char_portraits/S11_charPreview_portrait.webp",
+            "perks" : [
+                "Wake Up!",
+                "Pharmacy",
+                "Vigil"
+            ]
+        },
+        {
+            "name" : "Tapp",
+            "portrait" : "media/char_portraits/S12_charPreview_portrait.webp",
+            "perks" : [
+                "Tenacity",
+                "Detective's Hunch",
+                "Stake Out"
+            ]
+        },
+        {
+            "name" : "Kate",
+            "portrait" : "media/char_portraits/S13_charPreview_portrait.webp",
+            "perks" : [
+                "Dance With Me",
+                "Windows of Opportunity",
+                "Boil Over"
+            ]
+        },
+        {
+            "name" : "Adam",
+            "portrait" : "media/char_portraits/S14_charPreview_portrait.webp",
+            "perks" : [
+                "Diversion",
+                "Deliverance",
+                "Autodidact"
+            ]
+        },
+        {
+            "name" : "Jeff",
+            "portrait" : "media/char_portraits/S15_charPreview_portrait.webp",
+            "perks" : [
+                "Breakdown",
+                "Aftercare",
+                "Distortion"
+            ]
+        },
+        {
+            "name" : "Jane",
+            "portrait" : "media/char_portraits/S16_charPreview_portrait.webp",
+            "perks" : [
+                "Solidarity",
+                "Poised",
+                "Head On"
+            ]
+        },
+        {
+            "name" : "Ash",
+            "portrait" : "media/char_portraits/S17_charPreview_portrait.webp",
+            "perks" : [
+                "Flip Flop",
+                "Buckle Up",
+                "Mettle of Man"
+            ]
+        },
+        {
+            "name" : "Nancy",
+            "portrait" : "media/char_portraits/S18_charPreview_portrait.webp",
+            "perks" : [
+                "Inner Healing",
+                "Self Aware",
+                "Situational Awareness"
+            ]
+        },
+        {
+            "name" : "Steve",
+            "portrait" : "media/char_portraits/S19_charPreview_portrait.webp",
+            "perks" : [
+                "Guardian",
+                "Kinship",
+                "Renewal"
+            ]
+        },
+        {
+            "name" : "Yui",
+            "portrait" : "media/char_portraits/S20_charPreview_portrait.webp",
+            "perks" : [
+                "Lucky Break",
+                "Any Means Necessary",
+                "Breakout"
+            ]
+        },
+        {
+            "name" : "Zarina",
+            "portrait" : "media/char_portraits/S21_charPreview_portrait.webp",
+            "perks" : [
+                "Off the Record",
+                "Red Herring",
+                "For the People"
+            ]
+        },
+        {
+            "name" : "Cheryl",
+            "portrait" : "media/char_portraits/S22_charPreview_portrait.webp",
+            "perks" : [
+                "Soul Guard",
+                "Blood Pact",
+                "Repressed Alliance"
+            ]
+        },
+        {
+            "name" : "Felix",
+            "portrait" : "media/char_portraits/S23_charPreview_portrait.webp",
+            "perks" : [
+                "Visionary",
+                "Desperate Measures",
+                "Built to Last"
+            ]
+        },
+        {
+            "name" : "Elodie",
+            "portrait" : "media/char_portraits/S24_charPreview_portrait.webp",
+            "perks" : [
+                "Appraisal",
+                "Deception",
+                "Power Struggle"
+            ]
+        },
+        {
+            "name" : "Yun-Jin",
+            "portrait" : "media/char_portraits/S25_charPreview_portrait.webp",
+            "perks" : [
+                "Fast Track",
+                "Smash Hit",
+                "Self-Preservation"
+            ]
+        },
+        {
+            "name" : "Jill",
+            "portrait" : "media/char_portraits/S26_charPreview_portrait.webp",
+            "perks" : [
+                "Counterforce",
+                "Resurgence",
+                "Blast Mine"
+            ]
+        },
+        {
+            "name" : "Leon",
+            "portrait" : "media/char_portraits/S27_charPreview_portrait.webp",
+            "perks" : [
+                "Bite the Bullet",
+                "Flashbang",
+                "Rookie Spirit"
+            ]
+        },
+        {
+            "name" : "Mikaela",
+            "portrait" : "media/char_portraits/S28_charPreview_portrait.webp",
+            "perks" : [
+                "Clairvoyance",
+                "Boon: Circle of Healing",
+                "Boon: Shadow Step"
+            ]
+        },
+        {
+            "name" : "Jonah",
+            "portrait" : "media/char_portraits/S29_charPreview_portrait.webp",
+            "perks" : [
+                "Overcome",
+                "Corrective Action",
+                "Boon: Exponential"
+            ]
+        },
+        {
+            "name" : "Yoichi",
+            "portrait" : "media/char_portraits/S30_charPreview_portrait.webp",
+            "perks" : [
+                "Parental Guidance",
+                "Empathic Connection",
+                "Boon: Dark Theory"
+            ]
+        },
+        {
+            "name" : "Haddie",
+            "portrait" : "media/char_portraits/S31_charPreview_portrait.webp",
+            "perks" : [
+                "Inner Focus",
+                "Residual Manifest",
+                "Overzealous"
+            ]
+        },
+        {
+            "name" : "Ada",
+            "portrait" : "media/char_portraits/UnknownSurvivor_charPreview_portrait.webp",
+            "perks" : [
+                "Wiretap",
+                "Reactive Healing",
+                "Low Profile"
+            ]
+        },
+        {
+            "name" : "Rebecca",
+            "portrait" : "media/char_portraits/UnknownSurvivor_charPreview_portrait.webp",
+            "perks" : [
+                "Better than New",
+                "Reassurance",
+                "Hyperfocus"
+            ]
+        }
+    ],
+    "survivor_perks" : [
+        "Ace in the Hole",
+        "Adrenaline",
+        "Aftercare",
+        "Alert",
+        "Any Means Necessary",
+        "Appraisal",
+        "Autodidact",
+        "Balanced Landing",
+        "Better than New",
+        "Bite the Bullet",
+        "Blast Mine",
+        "Blood Pact",
+        "Boil Over",
+        "Boon: Circle of Healing",
+        "Boon: Dark Theory",
+        "Boon: Exponential",
+        "Boon: Shadow Step",
+        "Bond",
+        "Borrowed Time",
+        "Botany Knowledge",
+        "Breakdown",
+        "Breakout",
+        "Buckle Up",
+        "Built to Last",
+        "Calm Spirit",
+        "Corrective Action",
+        "Counterforce",
+        "Clairvoyance",
+        "Dance With Me",
+        "Dark Sense",
+        "Dead Hard",
+        "Deception",
+        "Decisive Strike",
+        "Deja Vu",
+        "Deliverance",
+        "Desperate Measures",
+        "Detective's Hunch",
+        "Distortion",
+        "Diversion",
+        "Empathic Connection",
+        "Empathy",
+        "Fast Track",
+        "Flashbang",
+        "Flip Flop",
+        "For the People",
+        "Guardian",
+        "Head On",
+        "Hope",
+        "Hyperfocus",
+        "Inner Focus",
+        "Inner Healing",
+        "Iron Will",
+        "Kindred",
+        "Kinship",
+        "Leader",
+        "Left Behind",
+        "Lightweight",
+        "Lithe",
+        "Low Profile",
+        "Lucky Break",
+        "Mettle of Man",
+        "No Mither",
+        "No One Left Behind",
+        "Object of Obsession",
+        "Off the Record",
+        "Open-Handed",
+        "Overcome",
+        "Overzealous",
+        "Parental Guidance",
+        "Pharmacy",
+        "Plunderer's Instinct",
+        "Poised",
+        "Power Struggle",
+        "Premonition",
+        "Prove Thyself",
+        "Quick & Quiet",
+        "Reactive Healing",
+        "Reassurance",
+        "Red Herring",
+        "Renewal",
+        "Repressed Alliance",
+        "Residual Manifest",
+        "Resilience",
+        "Resurgence",
+        "Rookie Spirit",
+        "Saboteur",
+        "Self-Aware",
+        "Self-Care",
+        "Self-Preservation",
+        "Situational Awareness",
+        "Slippery Meat",
+        "Small Game",
+        "Smash Hit",
+        "Sole Survivor",
+        "Solidarity",
+        "Soul Guard",
+        "Spine Chill",
+        "Sprint Burst",
+        "Stake Out",
+        "Streetwise",
+        "Technician",
+        "Tenacity",
+        "This Is Not Happening",
+        "Unbreakable",
+        "Up the Ante",
+        "Urban Evasion",
+        "Vigil",
+        "Visionary",
+        "Wake Up!",
+        "We'll Make It",
+        "We're Gonna Live Forever",
+        "Windows of Opportunity",
+        "Wiretap"
+    ],
+    "offerings" : [
+        "Vigo's Blueprint (Hatch in Main Building)",
+        "Annotated Blueprint (Hatch in Shack)",
+        "A Purple Offering",
+        "A Green Offering",
+        "A Yellow Offering",
+        "A Brown Offering"
+    ],
+    "item_rarities" : [
+        "Event",
+        "Ultra Rare (Red)",
+        "Very Rare (Purple)",
+        "Rare (Green)",
+        "Uncommon (Yellow)",
+        "Common (Brown)"
+    ],
+    "add_on_rarities" : [
+        "Ultra Rare (Red)",
+        "Very Rare (Purple)",
+        "Rare (Green)",
+        "Uncommon (Yellow)",
+        "Common (Brown)"
+    ]
+}

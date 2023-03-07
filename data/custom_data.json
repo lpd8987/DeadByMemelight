@@ -1,0 +1,462 @@
+{
+    "killer_builds" : [
+        {
+            "name" : "Build: Pressure",
+            "description" : "All chosen perks must be centered around the terror radius."
+        },
+        {
+            "name" : "Build: Hexed",
+            "description" : "All chosen perks must be Hexes."
+        },
+        {
+            "name" : "Build: Semi-Random III",
+            "description" : "You may choose 3 perks yourself- the last must be random."
+        },
+        {
+            "name" : "Build: Semi-Random I",
+            "description" : "You may choose 1 perk yourself- the rest must be random."
+        },
+        {
+            "name" : "Build: Custom",
+            "description" : "You may choose your perks this round."
+        },
+        {
+            "name" : "Build: Semi-Random II",
+            "description" : "You may choose 2 perks yourself- the rest must be random."
+        },
+        {
+            "name" : "Build: Random",
+            "description" : "Your perks must be random."
+        },
+        {
+            "name" : "Build: Bleed 'em",
+            "description" : "All chosen perks must be anti-healing."
+        },
+        {
+            "name" : "Build: Obsessed",
+            "description" : "All chosen perks must be centered around the obsession."
+        },
+        {
+            "name" : "Build: Gen Buster",
+            "description" : "All chosen perks must be centered around gen regression."
+        },
+        {
+            "name" : "Build: Just like the Simulations",
+            "description" : "Use the build you currently have equipped in pubs."
+        },
+        {
+            "name" : "Build: All-Seeing",
+            "description" : "All chosen perks must be centered around aura reading."
+        },
+        {
+            "name" : "Build: Clutch",
+            "description" : "All chosen perks must be centered around the endgame."
+        },
+        {
+            "name" : "Build: Devoted",
+            "description" : "All chosen perks must call upon the Entity to do something (e.g. block gens)."
+        }
+    ],
+    "survivor_builds" : [
+        {
+            "name" : "Build: Semi-Random III",
+            "description" : "You may choose 3 perks yourself- the last must be random."
+        },
+        {
+            "name" : "Build: Runner",
+            "description" : "All chosen perks must be built around taking chase."
+        },
+        {
+            "name" : "Build: Wallhacks",
+            "description" : "All chosen perks must be built around aura reading."
+        },
+        {
+            "name" : "Build: Exhausted",
+            "description" : "All chosen perks must be exhaustion perks."
+        },
+        {
+            "name" : "Build: Stealthy",
+            "description" : "All chosen perks must make the player more stealthy."
+        },
+        {
+            "name" : "Build: Just like the Simulations",
+            "description" : "Use the build you currently have equipped in pubs."
+        },
+        {
+            "name" : "Build: Medic",
+            "description" : "All chosen perks must be focused on healing."
+        },
+        {
+            "name" : "Build: Random",
+            "description" : "Your perks must be random."
+        },
+        {
+            "name" : "Build: Semi-Random I",
+            "description" : "You may choose 1 perk yourself- the rest must be random."
+        },
+        {
+            "name" : "Build: Custom",
+            "description" : "You may choose your perks this round."
+        },
+        {
+            "name" : "Build: Semi-Random II",
+            "description" : "You may choose 2 perks yourself- the rest must be random."
+        }
+    ],
+    "entity_killer_builds" : [
+        {
+            "name" : "Entity's Choice: Adept",
+            "description" : "Pick a killer at random- you may only use their perks (playing as that killer is optional)"
+        },
+        {
+            "name" : "Entity's Choice: Gen Kicker",
+            "description" : "Dragon's Grip + Call of Brine + Eruption + Jolt"
+        },
+        {
+            "name" : "Entity's Choice: Eternally Blind",
+            "description" : "Fearmonger + Septic Touch + Hex: Plaything + Hysteria"
+        },
+        {
+            "name" : "Entity's Choice: Perfectly Stacked",
+            "description" : "Save the Best for Last + Play With Your Food + Coup de Grace + Remember Me"
+        },
+        {
+            "name" : "Entity's Choice: Bloody Nightmare",
+            "description" : "Distressing + Septic Touch + Caulrophobia + Sloppy Butcher"
+        },
+        {
+            "name" : "Entity's Choice: Synthetic Stealth",
+            "description" : "Dark Devotion + Furtive Chase + Tinkerer + Fearmonger"
+        },
+        {
+            "name" : "Entity's Choice: Kleptomaniac",
+            "description" : "Franklin's Demise + Hoarder + Shattered Hope + Overwhelming Presence"
+        },
+        {
+            "name" : "Entity's Choice: Multi-Tasker",
+            "description" : "Agitation + Thrilling Tremors + Mad Grit + Iron Grasp"
+        },
+        {
+            "name" : "Entity's Choice: Pallet Smasher",
+            "description" : "Spirit Fury + Enduring + Brutal Strength + Fire Up"
+        },
+        {
+            "name" : "Entity's Choice: Gens Expendable I",
+            "description" : "Hex: No One Escapes Death + Remember Me + No Way Out + Blood Warden"
+        },
+        {
+            "name" : "Entity's Choice: Gens Expendable II",
+            "description" : "Terminus + Remember Me + No Way Out + Blood Warden"
+        },
+        {
+            "name" : "Entity's Choice: Scourge Killer",
+            "description" : "Scourge Hook: Gift of Pain + Scourge Hook: Pain Resonance + Scourge Hook: Floods of Rage + Scourge Hook: Monstrous Shrine"
+        },
+        {
+            "name" : "Entity's Choice: Bloodlust",
+            "description" : "Unrelenting + Save the Best For Last + Coup de Grace + Beast of Prey"
+        },
+        {
+            "name" : "Entity's Choice: The Walls Have Ears",
+            "description" : "Stridor + Surveillance + Spies From the Shadows + Predator"
+        },
+        {
+            "name" : "Entity's Choice: Flashlights Begone!",
+            "description" : "Franklin's Demise + Lightborn"
+        },
+        {
+            "name" : "Entity's Choice: Well Informed",
+            "description" : "Tinkerer + Discordance + Surveillance"
+        },
+        {
+            "name" : "Entity's Choice: Bad Aim",
+            "description" : "Shadowborn + Unrelenting"
+        },
+        {
+            "name" : "Entity's Choice: Feathered Friends",
+            "description" : "Spies From the Shadows"
+        },
+        {
+            "name" : "Entity's Choice: Window Watcher",
+            "description" : "Zanshin Tactics + Bamboozle"
+        },
+        {
+            "name" : "Entity's Choice: Fast Hooks",
+            "description" : "Scourge Hook: Monstrous Shrine"
+        },
+        {
+            "name" : "Entity's Choice: Starstruck",
+            "description" : "Starstruck + Awakened Awareness + Agitation + Iron Grasp"
+        },
+        {
+            "name" : "Entity's Choice: Vaulter",
+            "description" : "Superior Anatomy, Bamboozle, Fire Up, Brutal Strength"
+        },
+        {
+            "name" : "Entity's Choice: Lord of the Basement",
+            "description" : "Territorial Imperative + Scourge Hook: Monstrous Shrine"
+        },
+        {
+            "name" : "Entity's Choice: Lord of the Lockers",
+            "description" : "Iron Maiden + Darkness Revealed"
+        },
+        {
+            "name" : "Entity's Choice: Terrifying Radius",
+            "description" : "Distressing + Monitor & Abuse + Infectious Fright + Starstruck"
+        },
+        {
+            "name" : "Entity's Choice: Skull Kicker",
+            "description" : "Shattered Hope + Hex: Pentimento"
+        },
+        {
+            "name" : "Entity's Choice: Born Again",
+            "description" : "Shadowborn + Lightborn"
+        },
+        {
+            "name" : "Entity's Choice: The Gens have Eyes",
+            "description" : "Surveilance + Oppression + Jolt + Dragon's Grip"
+        }
+    ],
+    "entity_survivor_builds" : [
+        {
+            "name" : "Entity's Choice: Adept",
+            "description" : "Pick a survivor at random- you may only use their perks (playing as that survivor is optional)"
+        },
+        {
+            "name" : "Entity's Choice: Self-Centered",
+            "description" : "Self-Aware + Self-Care + Self-Preservation + Reactive Healing"
+        },
+        {
+            "name" : "Entity's Choice: Blessed",
+            "description" : "Boon: Circle of Healing + Boon: Dark Theory + Boon: Exponential + Boon: Shadow Step"
+        },
+        {
+            "name" : "Entity's Choice: Escape Artist ",
+            "description" : "Dance With Me + Lithe + Windows of Opportuntiy + Quick & Quiet"
+        },
+        {
+            "name" : "Entity's Choice: Hook Hero",
+            "description" : "We'll Make It + Borrowed Time + Desperate Measures + Guardian"
+        },
+        {
+            "name" : "Entity's Choice: Slug Hero",
+            "description" : "For the People + Buckle Up + We're Gonna Live Forever + Guardian"
+        },
+        {
+            "name" : "Entity's Choice: Eyecons",
+            "description" : "Dark Sense + Deja Vu + Kindred + Object of Obsession"
+        },
+        {
+            "name" : "Entity's Choice: Eyecons II",
+            "description" : "Rookie Spirit + Counterforce + Inner Focus + Wake Up!"
+        },
+        {
+            "name" : "Entity's Choice: Slug",
+            "description" : "Soul Guard + Unbreakable + Tenacity + Flip Flop"
+        },
+        {
+            "name" : "Entity's Choice: Enduring",
+            "description" : "Off the Record + Dead Hard + Mettle of Man + Soul Guard"
+        },
+        {
+            "name" : "Entity's Choice: Bad at Looping",
+            "description" : "Lucky Break + Overcome + Smash Hit + Decisive Strike"
+        },
+        {
+            "name" : "Entity's Choice: Anti-Tunnel",
+            "description" : "Breakdown + Decisive Strike + Flip Flop + Off the Record"
+        },
+        {
+            "name" : "Entity's Choice: Gifts of the Fog",
+            "description" : "Ace in the Hole + Plunderer's Instinct + Residual Manifest + Pharmacy"
+        },
+        {
+            "name" : "Entity's Choice: Gifts of the Fog II",
+            "description" : "Plunderer's Instinct + Residual Manifest + Pharmacy + Appraisal"
+        },
+        {
+            "name" : "Entity's Choice: Gens With Friends",
+            "description" : "Prove Thyself + Technician + Corrective Action + Vigil"
+        },
+        {
+            "name" : "Entity's Choice: Lone Wolf",
+            "description" : "Sole Survivor + Fast Track + Low Profile + Left Behind"
+        },
+        {
+            "name" : "Entity's Choice: Supportive I",
+            "description" : "Prove Thyself + Leader + Better than New + Vigil"
+        },
+        {
+            "name" : "Entity's Choice: Supportive II",
+            "description" : "Prove Thyself + Leader + Streetwise + Vigil"
+        },
+        {
+            "name" : "Entity's Choice: Hooked",
+            "description" : "Kinship + Reassurance + Borrowed Time + Deliverance"
+        },
+        {
+            "name" : "Entity's Choice: Genrusher",
+            "description" : "Hyperfocus + Technician + Corrective Action + Fast Track"
+        },
+        {
+            "name" : "Entity's Choice: Ghost Mode",
+            "description" : "Distortion + Iron Will + Diversion + Quick & Quiet"
+        },
+        {
+            "name" : "Entity's Choice: Bad at Skill Checks",
+            "description" : "Corrective Action + Technician"
+        },
+        {
+            "name" : "Entity's Choice: Cowabunga It is",
+            "description" : "Slippery Meat + Up the Ante"
+        },
+        {
+            "name" : "Entity's Choice: Gutsy",
+            "description" : "Dead Hard + No Mither"
+        },
+        {
+            "name" : "Entity's Choice: Gutsy II",
+            "description" : "No Mither + Object of Obsession"
+        },
+        {
+            "name" : "Entity's Choice: Wiggler",
+            "description" : "Flip Flop + Boil Over"
+        },
+        {
+            "name" : "Entity's Choice: Hopeful",
+            "description" : "Hope"
+        },
+        {
+            "name" : "Entity's Choice: Synthetic Aftercare",
+            "description" : "Empathic Connection + Empathy"
+        },
+        {
+            "name" : "Entity's Choice: Locker Gremlin",
+            "description" : "Head On + Flashbang + Inner Healing + Red Herring"
+        },
+        {
+            "name" : "Entity's Choice: Gotta Go Fast",
+            "description" : "Sprint Burst + Urban Evasion + Self Aware + Hope"
+        },
+        {
+            "name" : "Entity's Choice: Determined to Escape",
+            "description" : "Leader + We'll Make It + No One Left Behind + Hope"
+        },
+        {
+            "name" : "Entity's Choice: DIY Medical Liscence",
+            "description" : "Autodidact + Botany Knowledge"
+        },
+        {
+            "name" : "Entity's Choice: A Living Paradox",
+            "description" : "No One Left Behind + Left Behind"
+        },
+        {
+            "name" : "Entity's Choice: A Living Paradox II",
+            "description" : "No Mither + Self-Care"
+        },
+        {
+            "name" : "Entity's Choice: Passive Healer",
+            "description" : "Resurgence + Reactive Healing + Resilience"
+        },
+        {
+            "name" : "Entity's Choice: Bootleg Walhacks",
+            "description" : "Visionary + Detective's Hunch + Object of Obsession"
+        },
+        {
+            "name" : "Entity's Choice: Gen Troll",
+            "description" : "Blast Mine + Wiretap"
+        },
+        {
+            "name" : "Entity's Choice: Double Agent",
+            "description" : "Repressed Alliance"
+        }
+    ],
+    "killer_sabo_cards" : [
+        {
+            "name" : "Forced Amnesia",
+            "description" : "Reduce the number of perks a survivor can bring by 1."
+        },
+        {
+            "name" : "Forgotten Augments",
+            "description" : "Limit a survivor's add-ons to yellow and brown add-ons."
+        },
+        {
+            "name" : "Flesh Wound",
+            "description" : "Ban a survivor from using a perk of your choosing."
+        },
+        {
+            "name" : "Broken Tools",
+            "description" : "Ban a survivor from using an item of your choosing."
+        },
+        {
+            "name" : "Chained Pallets",
+            "description" : "Ban a survivor from dropping pallets."
+        },
+        {
+            "name" : "Spiked Windows",
+            "description" : "Ban a survivor from vaulting windows."
+        },
+        {
+            "name" : "Splintered Pallets",
+            "description" : "Ban a survivor from vaulting pallets."
+        },
+        {
+            "name" : "Hallowed Property",
+            "description" : "Ban a survivor from entering main building - if the map has a main building."
+        },
+        {
+            "name" : "Locked Shack",
+            "description" : "Ban a survivor from entering killer shack - if the map has a killer shack."
+        },
+        {
+            "name" : "Swift Avoidance",
+            "description" : "Avoid a killer sabotage card effect."
+        },
+        {
+            "name" : "Forced Adaptation",
+            "description" : "Force a survivor to redraw their build card."
+        }
+    ],
+    "survivor_sabo_cards" : [
+        {
+            "name" : "Decisive Removal",
+            "description" : "Reduce the amount of perks the killer can use this game."
+        },
+        {
+            "name" : "Foresight",
+            "description" : "Limit killer's add-ons to yellow and brown add-ons."
+        },
+        {
+            "name" : "Prophetic Knowledge",
+            "description" : "Force the killer player to play a killer of your choice."
+        },
+        {
+            "name" : "Bloody Ward",
+            "description" : "Ban the killer player from playing a killer of your choice."
+        },
+        {
+            "name" : "Titanium Pallets",
+            "description" : "The killer cannot break pallets next game (cancels with Provocative Pallets)."
+        },
+        {
+            "name" : "Provocative Pallets",
+            "description" : "While in chase the killer must break every pallet dropped as soon at is dropped (cancels with Titanium Pallets)."
+        },
+        {
+            "name" : "Rebuild",
+            "description" : "Force the killer player to draw another build card."
+        },
+        {
+            "name" : "Boon: Sanctuary Shack",
+            "description" : "The killer cannot harm you while you are within the killer shack - if the map has a killer shack."
+        },
+        {
+            "name" : "Boon: Sanctuary Structure",
+            "description" : "The killer cannot harm you while you are within the main building - if the map has a main building (indoor maps like The Game do not count)."
+        },
+        {
+            "name" : "Circle of Salt",
+            "description" : "Avoid the sabotage effect played by the Killer."
+        }
+    ]
+}

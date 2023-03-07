@@ -1,0 +1,51 @@
+html{
+    font-family: 'Barlow', sans-serif;
+    background-image: url("../media/background.jpg");
+    color: rgb(193, 193, 193);
+    font-size: large;
+}
+
+body{
+    background-color: rgba(45, 45, 45, 0.76);
+}
+
+h1, h2, h3{
+    font-family: 'Bebas Neue', cursive;   
+    font-size: x-large;
+}
+
+#killer_build, #survivor_build{
+    border: 3px solid black;
+    padding: 20px;
+}
+
+img{
+    max-width: 180px;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+    z-index: -10;
+    color: rgba(200, 200, 200, 0.76);
+}
+
+input{
+    margin-bottom: 30px;
+    color: rgb(214, 88, 4);
+}
+
+button, button:after{
+    background-color: rgb(193, 193, 193);
+    color: black;
+}
+
+button:hover{
+    background-color: rgb(214, 88, 4);
+    color: white;
+}
+
+button:active{
+    background-color: white;
+    color: white;
+}

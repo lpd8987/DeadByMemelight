@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Google Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300&family=Bebas+Neue&display=swap" rel="stylesheet">
+
+    <!--CSS-->
+    <link rel="stylesheet" href="styles/base_style.css">
+
+    <!--JS-->
+    <script src="src/loader.js" type="module"></script>
+
+    <title>Dead By Memelight</title>
+    <link rel="icon" type="image/x-icon" href="media/icons/IconPerks_corruptIntervention.webp">
+</head>
+
+<body>
+    <header>
+        <h1>DEAD BY MEMELIGHT</h1>
+    </header>
+
+    <!--Radio Buttons-->
+    <input type="radio" name="player_type" id="killer_rb">
+    <label for="killer_rb">Play as Killer</label>
+
+    <input type="radio" name="player_type" id="survivor_rb">
+    <label for="survivor_rb">Play as Survivor</label>
+
+    <button id="reset_btn">Reset Local Data</button>
+
+    <!--Divs-->
+    <div id="killer_build">
+        <h2>Killer</h2>
+        <!--Generate Build-->
+        <div>
+            <h3 id="k_build_title"></h3>
+            <p id="k_build_description"></p>
+        </div>
+        <div id="random_killer">
+            <h3 id="k_name"></h3>
+            <img id="k_portrait" src="" alt="killer">
+            <p id="k_perks"></p>
+        </div>
+        <button id="k_build_btn">Get General Build</button>
+        <button id="k_entity_btn">Entity's Choice</button>
+        
+        <hr>
+
+        <!--Generate Sabo Effect-->
+        <div>
+            <h3 id="k_sabo_title"></h3>
+            <p id="k_sabo_description"></p>
+        </div>
+        <button id="k_sabo_btn">Get Sabotage Card</button>
+
+        <hr> 
+
+        <!--Generate Add Ons-->
+        <p id="k_add_on_target"></p>
+        <button id="k_add_ons_btn">Get Add Ons</button>
+
+        <hr>
+
+        <!--Generate Offering-->
+        <p id="k_offering_target"></p>
+        <button id="k_offering_btn">Get Offering</button>
+    </div>
+
+    <div id="survivor_build">
+        <h2>Survivor</h2>
+        <!--Generate Build-->
+        <div>
+            <h3 id="s_build_title"></h3>
+            <p id="s_build_description"></p>
+        </div>
+        <div id="random_survivor">
+            <h3 id="s_name"></h3>
+            <img id="s_portrait" src="" alt="killer">
+            <p id="s_perks"></p>
+        </div>
+        <button id="s_build_btn">Get General Build</button>
+        <button id="s_entity_btn">Entity's Choice</button>
+        
+        <hr>
+
+        <!--Generate Sabo Effect-->
+        <div>
+            <h3 id="s_sabo_title"></h3>
+            <p id="s_sabo_description"></p>
+        </div>
+        <button id="s_sabo_btn">Get Sabotage Card</button>
+        
+        <hr>
+
+        <!--Generate Item and Add Ons-->
+        <p id="s_item_target"></p>
+        <button id="s_item_btn">Get Item and Add Ons</button>
+
+        <hr>
+
+        <!--Generate Offering-->
+        <p id="s_offering_target"></p>
+        <button id="s_offering_btn">Get Offering</button>
+    </div>
+
+    <footer>
+        <h2>Disclaimer: This is a fan-based web app. <em>Dead By Daylight</em> is owned and liscenced by Behaviour Interactive. Please support the official release.</h2>
+    </footer>
+    
+</body>
+</html>
